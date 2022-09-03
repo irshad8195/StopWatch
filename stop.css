@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+#container{
+    color: black;
+}
+.digit{
+    font-size: 125px;
+    font-style: normal;
+    font-weight: 100px;
+}
+.btn-container{
+    text-align: center;
+    margin: top 35px;
+}
+.text{
+    font-size: 35px;
+    font-weight: bold;
+}
+.btn{
+    padding: 8px 14px;
+    font-size: 20px;
+    margin: 0px 15px;
+    color: white;
+    border: 0px;
+    cursor: pointer;
+}
+#start{
+    background-color: black;
+}
+#stop{
+    background-color: black;
+}
+#reset{
+    background-color: black;
+}
